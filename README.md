@@ -1,6 +1,6 @@
 # BuyHomeLogin
 <h1>購物車專題</h1>
-<h6>(最終修定版本合併至作者群betty8398)</h6>
+<h6>(最終修定版本合併至作者群betty8398 Github:https://github.com/betty8398/BuyHomeLogin)</h6>
 <p>
 作者群：Lucien-Hsu、betty8398、wubrother18<br>
 
